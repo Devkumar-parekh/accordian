@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accordian/static/css/main.c2cab247.css",
+    "main.js": "/accordian/static/js/main.cd1a61a7.js",
+    "index.html": "/accordian/index.html",
+    "main.c2cab247.css.map": "/accordian/static/css/main.c2cab247.css.map",
+    "main.cd1a61a7.js.map": "/accordian/static/js/main.cd1a61a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.cd1a61a7.js"
+  ]
+}
